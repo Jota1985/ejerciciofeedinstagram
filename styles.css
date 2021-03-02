@@ -1,0 +1,44 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(212, 208, 208);
+}
+.center-me {
+  width: 600px;
+}
+
+.div1 {
+  background: rgb(255, 255, 255);
+  margin: auto;
+  width: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  glyph-orientation-vertical: top;
+  }
+
+ .div2 {
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  width: 300px;
+  font-style: arial;
+     
+ }
+ .numero {
+     margin: auto;
+     text-align: right;
+     vertical-align: middle;
+     font-family: inherit;
+     font-size: 13px;
+     color: grey;
+ }
+ .photo {
+     margin: auto;
+     text-align: left;
+     vertical-align: middle;
+     font-family: inherit;
+     font-size: 13px;
+ }
+ .div3 {
+       text-align: left;
+       text-decoration-color: antiquewhite;
+ }
